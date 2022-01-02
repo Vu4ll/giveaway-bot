@@ -1,10 +1,10 @@
 # Giveaway Bot
-- Make giveaways with own bot.
+- A giveaway bot made with Discord.js.
 - All commands were created with slash commands.
 
 # Getting Started
 - This bot requires Node.js 16.6 or higher to use.
-- Fill in the json/config.json content.
+- Fill in the `json/config.json` content.
 
 ## Execute the commands below.
 - `git clone https://github.com/Vu4ll/giveaway-bot`
