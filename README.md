@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Giveaway Bot
 - Make giveaways with own bot.
 - All commands were created with slash commands.
@@ -24,6 +25,10 @@
 - [Here](https://www.vu4ll.ml) you can find all the platforms where you can reach me.
 
 ![card](https://discord.c99.nl/widget/theme-3/269480080823025664.png)
+=======
+# giveaway-bot
+A giveaway bot made with Discord.js.
+>>>>>>> 0571305844d7b17a681d531bc25908ee8efd7147
 =======
 # giveaway-bot
 A giveaway bot made with Discord.js.
