@@ -13,11 +13,11 @@
 - `node index.js`
 
 # Commands
-- `/giveaway-start` Starts a giveaway.
-- `/giveaway-reroll` Rerolls a giveaway.
-- `/giveaway-end` Ends a giveaway.
-- `/giveaway-pause` Pauses a giveaway.
-- `/giveaway-unpause` Unpauses a giveaway.
+- `/giveaway start` Starts a giveaway.
+- `/giveaway reroll` Rerolls a giveaway.
+- `/giveaway end` Ends a giveaway.
+- `/giveaway pause` Pauses a giveaway.
+- `/giveaway unpause` Unpauses a giveaway.
 
 # Contact
 - [Here](https://vu4ll.ml) you can find all the platforms where you can reach me.
